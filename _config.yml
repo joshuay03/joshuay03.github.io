@@ -28,6 +28,7 @@ github_username: joshuay03
 
 # Build settings
 theme: minima
+timezone: Australia/Brisbane
 plugins:
   - jekyll-feed
 # Exclude from processing.
