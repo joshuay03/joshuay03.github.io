@@ -2,8 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "base64"
-gem "bigdecimal"
+gem "logger" # https://github.com/jekyll/jekyll/issues/9763
 
 gem "jekyll"
 gem "kramdown-parser-gfm"
